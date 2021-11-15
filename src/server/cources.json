@@ -1,0 +1,15 @@
+{ "cources":[
+    {"id":0 ,"cname":"Javascript","duration":"15 days"},
+    {"id":1 ,"cname":"React","duration":"30 days"},
+    {"id":2 ,"cname":"Node","duration":"15 days"},
+    {"id":3 ,"cname":"Java","duration":"30 days"},
+    {"id":4 ,"cname":"DOTNET","duration":"40 days"},
+    {"id":5 ,"cname":"Spring","duration":"20 days"},
+    {"id":6 ,"cname":"Python","duration":"25 days"},
+    {"id":7 ,"cname":"Django","duration":"15 days"},
+    {"id":8 ,"cname":"Android","duration":"30 days"}
+  ]
+  }
+  
+  
+  

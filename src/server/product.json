@@ -1,0 +1,25 @@
+{ "product":[
+  {"id":1 ,"pname":"A","price":3000 , "quantity":0 , "image":"./img/1.png"},
+  {"id":2 ,"pname":"B","price":4000 , "quantity":0 , "image":"./img/2.png"},
+  {"id":3 ,"pname":"C","price":1000 , "quantity":0 , "image":"./img/3.png"},
+  {"id":4 ,"pname":"D","price":6000 , "quantity":0 , "image":"./img/4.png"},
+  {"id":5 ,"pname":"E","price":8000 , "quantity":0 , "image":"./img/5.png"},
+  {"id":6 ,"pname":"F","price":3000 , "quantity":0 , "image":"./img/6.png"},
+  {"id":7 ,"pname":"G","price":5000 , "quantity":0 , "image":"./img/7.png"},
+  {"id":8 ,"pname":"H","price":1000 , "quantity":0 , "image":"./img/8.png"},
+  {"id":9 ,"pname":"I","price":8000 , "quantity":0 , "image":"./img/9.png"},
+  {"id":10 ,"pname":"J","price":9000 , "quantity":0 , "image":"./img/10.png"},
+  {"id":11 ,"pname":"K","price":3000 , "quantity":0 , "image":"./img/1.png"},
+  {"id":12 ,"pname":"L","price":4000 , "quantity":0 , "image":"./img/2.png"},
+  {"id":13 ,"pname":"M","price":1000 , "quantity":0 , "image":"./img/3.png"},
+  {"id":14 ,"pname":"N","price":6000 , "quantity":0 , "image":"./img/4.png"},
+  {"id":15 ,"pname":"O","price":8000 , "quantity":0 , "image":"./img/5.png"},
+  {"id":16 ,"pname":"P","price":3000 , "quantity":0 , "image":"./img/6.png"},
+  {"id":17 ,"pname":"Q","price":5000 , "quantity":0 , "image":"./img/7.png"},
+  {"id":18 ,"pname":"R","price":1000 , "quantity":0 , "image":"./img/8.png"},
+  {"id":19 ,"pname":"S","price":8000 , "quantity":0 , "image":"./img/9.png"},
+  {"id":20 ,"pname":"T","price":9000 , "quantity":0 , "image":"./img/10.png"}
+]
+}
+
+

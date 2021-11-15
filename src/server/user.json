@@ -1,0 +1,67 @@
+{
+  "user": [
+    {
+      "fname": "Sushant",
+      "lname": "Kadam",
+      "email": "sushantkadam1000@gmail.com",
+      "contact": "9130713277",
+      "selectedcource": "Javascript",
+      "query": "syllabus....?",
+      "id": 1
+    },
+    {
+      "fname": "Pankaj",
+      "lname": "Panchal",
+      "email": "pankajp@gmail.com",
+      "contact": "8437573733",
+      "selectedcource": "Android",
+      "query": "any discount..?",
+      "id": 2
+    },
+    {
+      "fname": "Suraj",
+      "lname": "Kadam",
+      "email": "kadamsuraj1000@gmail.com",
+      "contact": "8097502577",
+      "selectedcource": "DOTNET",
+      "query": "No",
+      "id": 3
+    },
+    {
+      "fname": "Sanket",
+      "lname": "Sawant",
+      "email": "sanket@gmail.com",
+      "contact": "8098765453",
+      "selectedcource": "Javascript",
+      "query": "asfdajfkjabefkjbaf",
+      "id": 4
+    },
+    {
+      "fname": "Sushant",
+      "lname": "Kadam",
+      "email": "sushantkadam1000@gmail.com",
+      "contact": "9130713277",
+      "selectedcource": "Spring",
+      "query": "safadfdasfa",
+      "id": 5
+    },
+    {
+      "fname": "Sushant",
+      "lname": "Kadam",
+      "email": "kadamsuraj1000@gmail.com",
+      "contact": "7288823642",
+      "selectedcource": "DOTNET",
+      "query": "asfsafasfasf",
+      "id": 6
+    },
+    {
+      "fname": "Sushant",
+      "lname": "Kadam",
+      "email": "sushantkadam1000@gmail.com",
+      "contact": "9135466666",
+      "selectedcource": "Javascript",
+      "query": "test",
+      "id": 7
+    }
+  ]
+}
